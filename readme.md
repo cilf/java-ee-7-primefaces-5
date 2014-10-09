@@ -5,5 +5,9 @@ This repository shows a minimal setup code needed to run java ee 7 in combinatio
 Other examples that make use of this repo:
 
   * [spring-data-mongodb-java-ee-7-primefaces-5](https://github.com/cilf/spring-data-mongodb-java-ee-7-primefaces-5)
+  * [arquillian-java-ee-7-primefaces-5](https://github.com/cilf/arquillian-java-ee-7-primefaces-5)
+  * [log-java-ee-7-primefaces-5](https://github.com/cilf/log-java-ee-7-primefaces-5)
+  * [security-java-ee-7-primefaces-5](https://github.com/cilf/security-java-ee-7-primefaces-5)
+  * [rewrite-java-ee-7-primefaces-5](https://github.com/cilf/rewrite-java-ee-7-primefaces-5)
 
 I'm deploying it locally to Wildfly 8.1.0.Final using IntelliJ IDEA 13.1.5
